@@ -1,7 +1,7 @@
 # Project $lowD3ath
 ### Created/designed by:
 * Wįłłý Fœx ([@BlackVikingPro](https://twitter.com/BlackVikingPro))
-* sŧᵾxnɇŧ ([@0x505249202a204](https://twitter.com/0x505249202a204))
+* r0otz-ee ([@0x505249202a204](https://twitter.com/0x505249202a204))
 * Braxton Westbrook ([@IridiumPersona](https://twitter.com/IridiumPersona))
 
 ***
